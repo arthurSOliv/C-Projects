@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555976248 source:c:\users\alexandre_note\desktop\alocação dinamica pilha\pilhadinamica\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
+1558357356 source:d:\iftm\disciplinas\estrutura de dados\codes\pilhadinamicamenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

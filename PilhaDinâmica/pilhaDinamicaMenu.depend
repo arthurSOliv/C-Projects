@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1558357356 source:d:\iftm\disciplinas\estrutura de dados\codes\pilhadinamicamenu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
